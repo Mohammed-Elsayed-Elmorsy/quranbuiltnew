@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quranbuiltnew/static/css/main.691eae61.css",
-    "main.js": "/quranbuiltnew/static/js/main.1900e34a.js",
+    "main.js": "/quranbuiltnew/static/js/main.921c775c.js",
     "static/media/mosque-6231915_1280.jpg": "/quranbuiltnew/static/media/mosque-6231915_1280.7324e7b390fdf45e6806.jpg",
     "static/media/islam-8519137_1280.webp": "/quranbuiltnew/static/media/islam-8519137_1280.4de3da0daf68245ae55e.webp",
     "static/media/mosque3.png": "/quranbuiltnew/static/media/mosque3.ca000dfabbb6076529f8.png",
@@ -22,10 +22,10 @@
     "static/media/read12.avif": "/quranbuiltnew/static/media/read12.3a4712a05d6f64014581.avif",
     "index.html": "/quranbuiltnew/index.html",
     "main.691eae61.css.map": "/quranbuiltnew/static/css/main.691eae61.css.map",
-    "main.1900e34a.js.map": "/quranbuiltnew/static/js/main.1900e34a.js.map"
+    "main.921c775c.js.map": "/quranbuiltnew/static/js/main.921c775c.js.map"
   },
   "entrypoints": [
     "static/css/main.691eae61.css",
-    "static/js/main.1900e34a.js"
+    "static/js/main.921c775c.js"
   ]
 }
